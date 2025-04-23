@@ -55,6 +55,5 @@ volumes:
   postgres-data:
   pgadmin-data:
 
-
 networks:
   app-network:
